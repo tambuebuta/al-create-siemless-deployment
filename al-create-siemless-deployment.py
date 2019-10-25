@@ -23,7 +23,7 @@ print("                              /_/            /____/        \n\n")
 print("Alert Logic Deployment Tool - 2019 - v1.0\n")
 
 #Get Customer Email
-#username=input('Enter AL User Email Address: ')
+username=input('Enter AL User Email Address: ')
 
 #Get Customer Password
 password=input('Enter Password: ')
